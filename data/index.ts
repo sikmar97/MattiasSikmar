@@ -37,7 +37,7 @@ export const navItems = [
     },
     {
       id: 6,
-      title: "Wanna get in touch?",
+      title: "Want to get in touch?",
       description: "",
       className: "lg:col-span-5 md:col-span-3 md:row-span-2",
       imgClassName: "",
