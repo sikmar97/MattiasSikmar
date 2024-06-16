@@ -12,7 +12,7 @@ export function Projects() {
     <div className="text-center pb-14 pt-20">
         <h1 className="text-bold text-3xl  uppercase md:text-6xl  ">Projects</h1>
         <hr className="my-4 mx-auto h-0.5 w-80 border-t-0 bg-white/60" />
-        <p className="text-lg">A Few Web Projects I've Created</p>
+        <p className="text-lg">A Few Web Projects I&apos;ve Created</p>
     </div>
     <div className="grid grid-cols-1 lg:grid-cols-4 gap-4 max-w-7xl mx-auto pb-20 w-full">
 
